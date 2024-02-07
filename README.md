@@ -1,4 +1,4 @@
-# React Tic Tac Tow Gaming APP
+# React Tic Tac Tow Game APP
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <img src="https://i.imgur.com/0srXN1e.png">
